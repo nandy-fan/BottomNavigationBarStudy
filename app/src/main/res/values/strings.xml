@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationBarStudy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="main_home_tab">首页</string>
+    <string name="main_loan_tab">聊天</string>
+    <string name="main_user_tab">个人中心</string>
+</resources>
